@@ -1,4 +1,2 @@
-numero1 = ("10")
-numero2 = ("20")
-
-print(numero1 + numero2)
+for numero in range(1, 30 + 1):
+    print(numero)
